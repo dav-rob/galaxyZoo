@@ -3,3 +3,12 @@ spiral galaxy
 elliptical galaxy
 barred  galaxy
 irregular galaxy
+
+These are some planets
+======================
+mercury
+venus
+earth
+mars
+jupiter
+
