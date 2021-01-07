@@ -8,4 +8,5 @@ mars
 jupiter
 saturn
 venus
+mercury
 
