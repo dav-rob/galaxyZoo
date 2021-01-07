@@ -1,14 +1,18 @@
 # content of astrophy_obj.txt galaxy
+These are some galaxies
+-----------------------
 spiral galaxy
 elliptical galaxy
 barred  galaxy
 irregular galaxy
 
 These are some planets
-======================
+----------------------
 mercury
 venus
 earth
 mars
 jupiter
+saturn
+
 
