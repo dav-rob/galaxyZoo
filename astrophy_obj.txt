@@ -1,0 +1,6 @@
+# content of astrophy_obj.txt
+spiral
+elliptical
+bar 
+irregular
+
