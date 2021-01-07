@@ -15,4 +15,9 @@ mars
 jupiter
 saturn
 
+These are some stars
+--------------------
+rigel
+betelgeuse
+
 
