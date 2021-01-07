@@ -1,5 +1,11 @@
-# content of astrophy_obj.txt galaxy
-spiral galaxy
-elliptical galaxy
-barred  galaxy
-irregular galaxy
+# content of astrophy_obj.txt galaxy object
+spiral galaxy object
+elliptical galaxy object
+barred  galaxy object
+irregular galaxy object
+
+mars
+jupiter
+saturn
+venus
+
