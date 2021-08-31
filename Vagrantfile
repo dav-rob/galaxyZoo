@@ -57,6 +57,13 @@ Vagrant.configure("2") do |config|
   #   vb.memory = "1024"
   # end
   #
+  #   An example to set memory and cpus for virtualbox
+  #
+  #   config.vm.provider "virtualbox" do |vb|
+  #     vb.memory = "2048"
+  #     vb.cpus = "2"
+  #   end
+  #
   # View the documentation for the provider you are using for more
   # information on available options.
 
