@@ -20,4 +20,10 @@ These are some stars
 rigel
 betelgeuse
 
+These are some recent innovations
+---------------------------------
+Gravity wave detection
+Pulsar observation to show the presence of gravity waves
+
+
 
